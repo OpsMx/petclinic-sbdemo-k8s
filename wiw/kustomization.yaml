@@ -5,4 +5,4 @@ resources:
 - service.yaml
 images:
 - name: docker.io/opsmx11/dev-petclinic-wiwork
-  newTag: 13-critical
+  newTag: 14-critical
