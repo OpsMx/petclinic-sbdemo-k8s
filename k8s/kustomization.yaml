@@ -4,5 +4,5 @@ resources:
 - deployment.yaml
 - service.yaml
 images:
-- name: docker.io/opsmx11/dev-petclinic-wiwork
+- name: docker.io/opsmx11/dev-petclinic-sbdemo
   newTag: 18-nocritical

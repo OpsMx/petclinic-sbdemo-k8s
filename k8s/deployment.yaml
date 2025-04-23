@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: petclinic
-        image: docker.io/opsmx11/dev-petclinic-wiwork:7-critical
+        image: docker.io/opsmx11/dev-petclinic-sbdemo:7-critical
         ports:
         - containerPort: 8080
         resources:
